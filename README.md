@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Hi there 👋, I'm Hakim!<br><br>**A Little About Me:**<br><br>- 🎓 I'm a 21-year-old undergraduate student pursuing a Bachelor's degree in **Informatics Engineering**.<br>- ✍️ I love writing content on my personal website: [kontenhakim.blog](https://kontenhakim.blog)<br>- ⚽ Huge football fan! My beloved team is **FC Barcelona**. Visca Barça!<br>- 🌳 Enjoy exploring the great outdoors and going on adventures.<br>- ☕ Coffee enthusiast. A good cup of coffee is my perfect fuel for coding.<br><br>Thanks for stopping by!
+### Hi there 👋, I'm Hakim!<br><br>**A Little About Me:**<br><br>- 🎓 I'm a 22-year-old undergraduate student pursuing a Bachelor's degree in **Informatics Engineering**.<br>- ✍️ I love writing content on my personal website: [kontenhakim.blog](https://kontenhakim.blog)<br>- ⚽ Huge football fan! My beloved team is **FC Barcelona**. Visca Barça!<br>- 🌳 Enjoy exploring the great outdoors and going on adventures.<br>- ☕ Coffee enthusiast. A good cup of coffee is my perfect fuel for coding.<br><br>Thanks for stopping by!
 
 
 ## 🌐 Socials:
